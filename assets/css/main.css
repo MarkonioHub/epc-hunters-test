@@ -192,6 +192,7 @@ button {
         display: flex;
         align-items: center;
         gap: 10px;
+        cursor: pointer;
     }
 }
 
@@ -419,6 +420,7 @@ button {
         display: flex;
         gap: 5px;
         align-items: center;
+        cursor: pointer;
     }
 }
 
@@ -555,3 +557,4 @@ button {
         font-size: 14px;
     }
 }
+
